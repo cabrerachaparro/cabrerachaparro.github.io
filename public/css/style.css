@@ -119,3 +119,8 @@ hr {
 #final-footer i{
 	font-size: auto;
 }
+
+p {
+  font-family: Papyrus, fantasy; 
+  text-align: justify;
+}

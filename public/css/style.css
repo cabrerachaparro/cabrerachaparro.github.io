@@ -6,6 +6,13 @@
 	padding:0px;
 }
 
+.no-border{
+	border: none;
+}
+
+.transparent{
+  background-color: #eff3fb;
+}
 .body{
 	background-color:#eff3fb;
 }
